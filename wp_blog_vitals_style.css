@@ -1,0 +1,38 @@
+#alexa_chicklet_text{
+    font-size:10px;
+    padding:1px 0px 2px 40px;
+}
+#technorati_chicklet_text{
+    font-size:10px;
+    padding:0px 0px 1px 40px;
+}
+
+#posts_chicklet_text{
+    font-size:10px;
+    text-align:center;
+    padding:4px 55px 0px 5px;
+}
+
+#comments_chicklet_text{
+    font-size:10px;
+    text-align:center;
+    padding:4px 55px 0px 5px;
+}
+
+#pingbacks_chicklet_text{
+    font-size:10px;
+    text-align:center;
+    padding:4px 55px 0px 5px;
+}
+
+#twitter_chicklet_text{
+    font-size:10px;
+    text-align:center;
+    padding:4px 55px 0px 5px;
+}
+
+#gplus_one_chicklet_text{
+    font-size:10px;
+    text-align:center;
+    padding:4px 55px 0px 5px;
+}
